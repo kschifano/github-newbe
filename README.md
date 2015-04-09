@@ -1,2 +1,3 @@
 # github-newbe
-First repository
+Wish I knew how to script
+
